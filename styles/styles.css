@@ -1,0 +1,30 @@
+<style>
+
+  .pro {
+    color: green;
+  }
+  .con {
+    color: red;
+  }
+  .important {
+    font-weight: bold;
+  }
+  #lead-paragraph {
+    color: purple;
+    font-weight: bold;
+  }
+  .important:hover {
+    background-color: pink
+  }
+  a[href="https://www.clymer.com"] {
+    background-color: orange;
+  }
+  a[href="https://www.maxbmw.com"]{
+    background-color: aliceblue;
+  }
+  img {
+    width: 25%;
+    border-style: double dashed solid dotted;
+    color:  blue;
+  }
+</style>
